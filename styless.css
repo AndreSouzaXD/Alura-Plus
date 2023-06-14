@@ -20,7 +20,7 @@ body{background-color: var(--cor-de-fundo);
            grid-template-columns: 50% 50%;
 
 .container--botão{background-color: var(--botão-azul);
-                  border: radius: 5px;
+                  border-radius: 5px;
                   padding: 1em;
                   color: var(--branco-principal);
                   display: block;
